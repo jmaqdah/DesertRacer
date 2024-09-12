@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DesertRacer",
+			"Path": "../Source/DesertRacer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DesertRacerEditor",
+			"Path": "../Source/DesertRacerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

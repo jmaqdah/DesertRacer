@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/jadmaqdah/GithubProjects/DesertRacer/Source/DesertRacer/DesertRacer.Build.cs",
+		"/Users/jadmaqdah/GithubProjects/DesertRacer/Source/DesertRacer.Target.cs",
+		"/Users/jadmaqdah/GithubProjects/DesertRacer/Source/DesertRacerEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
